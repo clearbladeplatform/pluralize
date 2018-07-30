@@ -1,0 +1,12 @@
+{
+    "current_version": 1,
+    "dependencies": "log,pluralize",
+    "logging_enabled": "false",
+    "name": "pluralizeSmokeTest",
+    "params": [],
+    "permissions": {
+        "Authenticated": 1
+    },
+    "run_user": "",
+    "source": "pluralizeSmokeTest.js"
+}
